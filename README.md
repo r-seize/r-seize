@@ -4,9 +4,9 @@ $ devfetch
              .-+#%+.                    -----------------------
           .+%@@@#.                      🚀 Position: Software developer
         .*@@@@@*      .=.....:-.        ⏳ Experience: 4 years
-       =@@@@@@@       :*       +=       🌐 Primary languages: ['Python', 'C++']
-      =@@@@@@@+       :*       -#       🖥️ OS: Ubuntu 24.04.2 LTS
-     :@@@@@@@@=       :*      -+.       
+       =@@@@@@@       :*       +=       🌐 Primary languages: ['Python']
+      =@@@@@@@+       :*       -#       🎒 Secondary languages: ['C', 'C++', 'Rust', 'TypeScript']
+     :@@@@@@@@=       :*      -+.       🖥️ OS: Ubuntu 24.04.2 LTS
      #@@@@@@@@*       :* ..=*:          🎓 Formation: Master's degree in IT development security
      @@@@@@@@@@.      :*    .+-         🌍 Langues: English, French
      %@@@@@@@@@%.     :*      -+:       👾 Hobby: Chess, Webtoon, Food
