@@ -6,7 +6,7 @@ $ devfetch
         .*@@@@@*      .=.....:-.        ⏳ Experience: 4 years
        =@@@@@@@       :*       +=       🌐 Primary languages: ['Python']
       =@@@@@@@+       :*       -#       🎒 Secondary languages: ['C', 'C++', 'Rust', 'TypeScript']
-     :@@@@@@@@=       :*      -+.       🖥️ OS: ['Ubuntu', 'Arch', 'Debian']
+     :@@@@@@@@=       :*      -+.       🖥️ OS: ['Debian', 'Arch', 'Kali']
      #@@@@@@@@*       :* ..=*:          🎓 Formation: Master's degree in IT development security
      @@@@@@@@@@.      :*    .+-         🌍 Langues: English, French
      %@@@@@@@@@%.     :*      -+:       👾 Hobby: Chess, Webtoon, Food
@@ -26,6 +26,4 @@ $ devfetch
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=r-seize&theme=midnight-purple&hide_border=true&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=r-seize&theme=midnight-purple&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=r-seize&theme=midnight-purple&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
