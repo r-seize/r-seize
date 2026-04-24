@@ -26,4 +26,4 @@ $ devfetch
 
 
 # 📊 GitHub Stats:
-![](https://nirzak-streak-stats.vercel.app/?user=r-seize&theme=midnight-purple&hide_border=true)<br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=r-seize&layout=compact&theme=tokyonight&langs_count=8&hide_border=true&title_color=58a6ff&text_color=c9d1d9&bg_color=0d1117)
