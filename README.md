@@ -26,7 +26,7 @@ $ devfetch
 
 
 ## GitHub Stats:
-![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=r-seize&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=r-seize&size_weight=0.5&count_weight=0.5&theme=dracula)
 
 
 ## About Me
