@@ -36,5 +36,5 @@ I enjoy turning ideas into real applications, exploring different technologies, 
 
 Most of my projects are driven by curiosity, creativity, and the desire to build useful and interesting things.
 
-Here is the latest project I’m proud of: https://github.com/r-seize/watchdiff-ts & https://github.com/r-seize/watchdiff-py
+Here is the latest project I’m proud of: https://github.com/r-seize/Glyph
 
