@@ -33,27 +33,25 @@ $ devfetch
 
 #### I have created and published several extensions for Visual Studio Code
 
-| Extension | Installs |
-|---|---|
-| [![Code Align](https://img.shields.io/badge/Code_Align-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.code-align) | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.code-align.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.code-align) |
-| [![Git Crack](https://img.shields.io/badge/Git_Crack-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.git-crack) | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.git-crack.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.git-crack) |
-| [![Nocturne Alien Isolation](https://img.shields.io/badge/Nocturne_Alien_Isolation-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-alien-isolation) | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-alien-isolation.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-alien-isolation) |
-| [![Nocturne Raccoon](https://img.shields.io/badge/Nocturne_Raccoon-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-raccoon) | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-raccoon.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-raccoon) |
+| Extension | Description | Installs |
+|---|---|---|
+| [![Code Align](https://img.shields.io/badge/Code_Align-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.code-align) | A VS Code extension that automatically aligns variables, comments, and assignments for cleaner, more readable code. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.code-align.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.code-align) |
+| [![Git Crack](https://img.shields.io/badge/Git_Crack-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.git-crack) | A VS Code extension that streamlines everyday Git workflows directly from the editor. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.git-crack.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.git-crack) |
+| [![Nocturne Alien Isolation](https://img.shields.io/badge/Nocturne_Alien_Isolation-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-alien-isolation) | A VS Code theme inspired by the phosphor-green terminals of Alien: Isolation. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-alien-isolation.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-alien-isolation) |
+| [![Nocturne Raccoon](https://img.shields.io/badge/Nocturne_Raccoon-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-raccoon) | A VS Code theme from the Nocturne collection. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-raccoon.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-raccoon) |
 
 #### I've published packages on NPM, PyPI, and Crates
-
-| Package | Downloads |
-|---|---|
-| [![watchdiff-core](https://img.shields.io/badge/watchdiff--core-npm-red?logo=npm&logoColor=white)](https://www.npmjs.com/package/watchdiff-core) | [![npm downloads](https://img.shields.io/npm/dm/watchdiff-core?label=downloads)](https://www.npmjs.com/package/watchdiff-core) |
-| [![watchdiff-core](https://img.shields.io/badge/watchdiff--core-PyPI-blue?logo=pypi&logoColor=white)](https://pypi.org/project/watchdiff-core/) | [![PyPI downloads](https://img.shields.io/pypi/dm/watchdiff-core?label=downloads)](https://pypi.org/project/watchdiff-core/) |
-| [![octofetch](https://img.shields.io/badge/octofetch-crates.io-orange?logo=rust&logoColor=white)](https://crates.io/crates/octofetch) | [![crates.io downloads](https://img.shields.io/crates/d/octofetch?label=downloads)](https://crates.io/crates/octofetch) |
+| Package | Description | Downloads |
+|---|---|---|
+| [![watchdiff-core](https://img.shields.io/badge/watchdiff--core-npm-red?logo=npm&logoColor=white)](https://www.npmjs.com/package/watchdiff-core) | A cross-language diff-watching tool that tracks and reports file or data changes in real time. | [![npm total downloads](https://badgen.net/npm/dt/watchdiff-core?label=downloads)](https://www.npmjs.com/package/watchdiff-core) |
+| [![watchdiff-core](https://img.shields.io/badge/watchdiff--core-PyPI-blue?logo=pypi&logoColor=white)](https://pypi.org/project/watchdiff-core/) | The Python counterpart of watchdiff-core, same diff-watching tool. | [![PyPI total downloads](https://static.pepy.tech/badge/watchdiff-core)](https://pypi.org/project/watchdiff-core/) |
+| [![octofetch](https://img.shields.io/badge/octofetch-crates.io-orange?logo=rust&logoColor=white)](https://crates.io/crates/octofetch) | A fast, Rust-powered system info tool inspired by neofetch. | [![crates.io downloads](https://img.shields.io/crates/d/octofetch?label=downloads)](https://crates.io/crates/octofetch) |
 
 #### My biggest project, which includes two Docker images
-
-| Image | Pulls |
-|---|---|
-| [![glyph-frontend](https://img.shields.io/badge/glyph--frontend-Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/rseize/glyph-frontend) | [![Docker Pulls Frontend](https://img.shields.io/docker/pulls/rseize/glyph-frontend?label=pulls)](https://hub.docker.com/r/rseize/glyph-frontend) |
-| [![glyph-backend](https://img.shields.io/badge/glyph--backend-Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/rseize/glyph-backend) | [![Docker Pulls Backend](https://img.shields.io/docker/pulls/rseize/glyph-backend?label=pulls)](https://hub.docker.com/r/rseize/glyph-backend) |
+| Image | Description | Pulls |
+|---|---|---|
+| [![glyph-frontend](https://img.shields.io/badge/glyph--frontend-Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/rseize/glyph-frontend) | The frontend service of Glyph, a full-stack web application. | [![Docker Pulls Frontend](https://img.shields.io/docker/pulls/rseize/glyph-frontend?label=pulls)](https://hub.docker.com/r/rseize/glyph-frontend) |
+| [![glyph-backend](https://img.shields.io/badge/glyph--backend-Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/rseize/glyph-backend) | The backend service of Glyph, a full-stack web application. | [![Docker Pulls Backend](https://img.shields.io/docker/pulls/rseize/glyph-backend?label=pulls)](https://hub.docker.com/r/rseize/glyph-backend) |
 
 You can find all the details about these projects by visiting my repositories  
 [![Repositories](https://img.shields.io/badge/Repositories-View_on_GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-seize?tab=repositories)
