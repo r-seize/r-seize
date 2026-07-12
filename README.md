@@ -3,7 +3,7 @@ $ devfetch
                                         dev@profile
              .-+#%+.                    -----------------------
           .+%@@@#.                      🚀 Position: Software developer
-        .*@@@@@*      .=.....:-.        ⏳ Experience: 4 years
+        .*@@@@@*      .=.....:-.        ⏳ Experience: 5 years
        =@@@@@@@       :*       +=       🌐 Primary languages: ['Python']
       =@@@@@@@+       :*       -#       🎒 Secondary languages: ['C', 'C++', 'Rust', 'TypeScript']
      :@@@@@@@@=       :*      -+.       🖥️ OS: ['Debian', 'Arch', 'Kali']
@@ -35,6 +35,3 @@ I build open-source projects to share my ideas, experiment with new concepts, an
 I enjoy turning ideas into real applications, exploring different technologies, and collaborating with the developer community through open source.
 
 Most of my projects are driven by curiosity, creativity, and the desire to build useful and interesting things.
-
-Here is the latest project I’m proud of: https://github.com/r-seize/Glyph
-
