@@ -45,13 +45,13 @@ $ devfetch
 |---|---|---|
 | [![watchdiff-core](https://img.shields.io/badge/watchdiff--core-npm-red?logo=npm&logoColor=white)](https://www.npmjs.com/package/watchdiff-core) | A cross-language diff-watching tool that tracks and reports file or data changes in real time. | [![npm total downloads](https://badgen.net/npm/dt/watchdiff-core?label=downloads)](https://www.npmjs.com/package/watchdiff-core) |
 | [![watchdiff-core](https://img.shields.io/badge/watchdiff--core-PyPI-blue?logo=pypi&logoColor=white)](https://pypi.org/project/watchdiff-core/) | The Python counterpart of watchdiff-core, same diff-watching tool. | [![PyPI total downloads](https://static.pepy.tech/badge/watchdiff-core)](https://pypi.org/project/watchdiff-core/) |
-| [![octofetch](https://img.shields.io/badge/octofetch-crates.io-orange?logo=rust&logoColor=white)](https://crates.io/crates/octofetch) | A fast, Rust-powered system info tool inspired by neofetch. | [![crates.io downloads](https://img.shields.io/crates/d/octofetch?label=downloads)](https://crates.io/crates/octofetch) |
+| [![octofetch](https://img.shields.io/badge/octofetch-crates.io-orange?logo=rust&logoColor=white)](https://crates.io/crates/octofetch) | A Neofetch-inspired CLI that displays GitHub profiles, repos, and user stats right in your terminal — written in Rust. | [![crates.io downloads](https://img.shields.io/crates/d/octofetch?label=downloads)](https://crates.io/crates/octofetch) |
 
 #### My biggest project, which includes two Docker images
 | Image | Description | Pulls |
 |---|---|---|
-| [![glyph-frontend](https://img.shields.io/badge/glyph--frontend-Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/rseize/glyph-frontend) | The frontend service of Glyph, a full-stack web application. | [![Docker Pulls Frontend](https://img.shields.io/docker/pulls/rseize/glyph-frontend?label=pulls)](https://hub.docker.com/r/rseize/glyph-frontend) |
-| [![glyph-backend](https://img.shields.io/badge/glyph--backend-Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/rseize/glyph-backend) | The backend service of Glyph, a full-stack web application. | [![Docker Pulls Backend](https://img.shields.io/docker/pulls/rseize/glyph-backend?label=pulls)](https://hub.docker.com/r/rseize/glyph-backend) |
+| [![glyph-frontend](https://img.shields.io/badge/glyph--frontend-Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/rseize/glyph-frontend) | The web UI of Glyph, a self-hosted platform for versioned documentation anchored to your Git commits. | [![Docker Pulls Frontend](https://img.shields.io/docker/pulls/rseize/glyph-frontend?label=pulls)](https://hub.docker.com/r/rseize/glyph-frontend) |
+| [![glyph-backend](https://img.shields.io/badge/glyph--backend-Docker-2496ED?logo=docker&logoColor=white)](https://hub.docker.com/r/rseize/glyph-backend) | The API service of Glyph, handling Git imports, search, and documentation storage. | [![Docker Pulls Backend](https://img.shields.io/docker/pulls/rseize/glyph-backend?label=pulls)](https://hub.docker.com/r/rseize/glyph-backend) |
 
 You can find all the details about these projects by visiting my repositories  
 [![Repositories](https://img.shields.io/badge/Repositories-View_on_GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white)](https://github.com/r-seize?tab=repositories)
