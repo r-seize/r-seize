@@ -31,21 +31,22 @@ $ devfetch
 
 ## Here's an overview of my open-source projects
 
-#### I have created and published several extensions for Visual Studio Code
-
-| Extension | Description | Installs |
-|---|---|---|
-| [![Code Align](https://img.shields.io/badge/Code_Align-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.code-align) | A VS Code extension that automatically aligns variables, comments, and assignments for cleaner, more readable code. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.code-align.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.code-align) |
-| [![Git Crack](https://img.shields.io/badge/Git_Crack-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.git-crack) | A VS Code extension that streamlines everyday Git workflows directly from the editor. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.git-crack.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.git-crack) |
-| [![Nocturne Alien Isolation](https://img.shields.io/badge/Nocturne_Alien_Isolation-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-alien-isolation) | A VS Code theme inspired by the phosphor-green terminals of Alien: Isolation. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-alien-isolation.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-alien-isolation) |
-| [![Nocturne Raccoon](https://img.shields.io/badge/Nocturne_Raccoon-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-raccoon) | A VS Code theme from the Nocturne collection. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-raccoon.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-raccoon) |
-
 #### I've published packages on NPM, PyPI, and Crates
 | Package | Description | Downloads |
 |---|---|---|
 | [![watchdiff-core](https://img.shields.io/badge/watchdiff--core-npm-red?logo=npm&logoColor=white)](https://www.npmjs.com/package/watchdiff-core) | A cross-language diff-watching tool that tracks and reports file or data changes in real time. | [![npm total downloads](https://badgen.net/npm/dt/watchdiff-core?label=downloads)](https://www.npmjs.com/package/watchdiff-core) |
 | [![watchdiff-core](https://img.shields.io/badge/watchdiff--core-PyPI-blue?logo=pypi&logoColor=white)](https://pypi.org/project/watchdiff-core/) | The Python counterpart of watchdiff-core, same diff-watching tool. | [![PyPI total downloads](https://static.pepy.tech/badge/watchdiff-core)](https://pypi.org/project/watchdiff-core/) |
 | [![octofetch](https://img.shields.io/badge/octofetch-crates.io-orange?logo=rust&logoColor=white)](https://crates.io/crates/octofetch) | A Neofetch-inspired CLI that displays GitHub profiles, repos, and user stats right in your terminal — written in Rust. | [![crates.io downloads](https://img.shields.io/crates/d/octofetch?label=downloads)](https://crates.io/crates/octofetch) |
+
+#### I have created and published several extensions for Visual Studio Code
+| Extension | Description | Installs |
+|---|---|---|
+| [![Code Align](https://img.shields.io/badge/Code_Align-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.code-align) | A VS Code extension that automatically aligns variables, comments, and assignments for cleaner, more readable code. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.code-align.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.code-align) |
+| [![Git Crack](https://img.shields.io/badge/Git_Crack-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.git-crack) | A VS Code extension that streamlines everyday Git workflows directly from the editor. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.git-crack.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.git-crack) |
+| [![Nocturne Alien Isolation](https://img.shields.io/badge/Nocturne_Alien_Isolation-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-alien-isolation) | A VS Code theme inspired by the phosphor-green terminals of Alien: Isolation. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-alien-isolation.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-alien-isolation) |
+| [![Nocturne Panda](https://img.shields.io/badge/Nocturne_Panda-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-panda) | A VS Code light theme — pure white background, crisp black UI, vivid syntax colors. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-panda.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-panda) |
+| [![Nocturne Raccoon](https://img.shields.io/badge/Nocturne_Raccoon-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-raccoon) | A VS Code theme from the Nocturne collection. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-raccoon.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-raccoon) |
+| [![Nocturne Velvet](https://img.shields.io/badge/Nocturne_Velvet-VS_Code-blue?logo=visualstudiocode&logoColor=white)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-velvet) | A VS Code dark theme draped in deep velvet black — amethyst shadows, jewel-toned syntax. | [![Installs](https://vsmarketplacebadges.dev/installs/r-seize.nocturne-velvet.svg)](https://marketplace.visualstudio.com/items?itemName=r-seize.nocturne-velvet) |
 
 #### My biggest project, which includes two Docker images
 | Image | Description | Pulls |
