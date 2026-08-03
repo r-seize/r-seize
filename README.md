@@ -39,6 +39,8 @@ $ devfetch
 | [![doctorkit-core](https://img.shields.io/badge/doctorkit--core-npm-red?logo=npm&logoColor=white)](https://www.npmjs.com/package/doctorkit-core) | Health-check engine for CLI tools - declare checks, get structured diagnostics with zero dependencies. | [![npm total downloads](https://badgen.net/npm/dt/doctorkit-core?label=downloads)](https://www.npmjs.com/package/doctorkit-core) |
 | [![doctorkit-core](https://img.shields.io/badge/doctorkit--core-PyPI-blue?logo=pypi&logoColor=white)](https://pypi.org/project/doctorkit-core/) | The Python counterpart of doctorkit-core, same health-check engine. | [![PyPI total downloads](https://static.pepy.tech/badge/doctorkit-core)](https://pypi.org/project/doctorkit-core/) |
 | [![octofetch](https://img.shields.io/badge/octofetch-crates.io-orange?logo=rust&logoColor=white)](https://crates.io/crates/octofetch) | A Neofetch-inspired CLI that displays GitHub profiles, repos, and user stats right in your terminal — written in Rust. | [![crates.io downloads](https://img.shields.io/crates/d/octofetch?label=downloads)](https://crates.io/crates/octofetch) |
+| [![warden-sandbox](https://img.shields.io/badge/warden--sandbox-npm-red?logo=npm&logoColor=white)](https://www.npmjs.com/package/warden-sandbox) | Runtime capability sandboxing for Node.js dependencies — detects and enforces capability policies via static AST analysis. | [![npm total downloads](https://badgen.net/npm/dt/warden-sandbox?label=downloads)](https://www.npmjs.com/package/warden-sandbox) |
+
 
 
 #### I have created and published several extensions for Visual Studio Code
