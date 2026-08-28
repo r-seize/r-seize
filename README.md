@@ -3,7 +3,7 @@ $ devfetch
                                         dev@profile
              .-+#%+.                    -----------------------
           .+%@@@#.                      🚀 Position: Software developer
-        .*@@@@@*      .=.....:-.        ⏳ Experience: 5 years
+        .*@@@@@*      .=.....:-.        ⏳ Experience: 6 years
        =@@@@@@@       :*       +=       🌐 Primary languages: ['Python']
       =@@@@@@@+       :*       -#       🎒 Secondary languages: ['C', 'C++', 'Rust', 'TypeScript', 'Go']
      :@@@@@@@@=       :*      -+.       🖥️ OS: ['Debian', 'Arch', 'Kali']
