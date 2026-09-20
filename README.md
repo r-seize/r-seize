@@ -5,7 +5,7 @@ $ devfetch
           .+%@@@#.                      🚀 Position: Software developer
         .*@@@@@*      .=.....:-.        ⏳ Experience: 6 years
        =@@@@@@@       :*       +=       🌐 Primary languages: ['Python']
-      =@@@@@@@+       :*       -#       🎒 Secondary languages: ['C', 'C++', 'Rust', 'TypeScript', 'Go']
+      =@@@@@@@+       :*       -#       🎒 Secondary languages: ['C', 'C++', 'Rust', 'Php','TypeScript']
      :@@@@@@@@=       :*      -+.       🖥️ OS: ['Debian', 'Arch', 'Kali']
      #@@@@@@@@*       :* ..=*:          🎓 Formation: Master's degree in IT development security
      @@@@@@@@@@.      :*    .+-         🌍 Langues: English, French
