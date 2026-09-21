@@ -68,3 +68,5 @@ I build open-source projects to share my ideas, experiment with new concepts, an
 I enjoy turning ideas into real applications, exploring different technologies, and collaborating with the developer community through open source.
 
 Most of my projects are driven by curiosity, creativity, and the desire to build useful and interesting things.
+
+🇫🇷 All my projects are proudly made in France.
